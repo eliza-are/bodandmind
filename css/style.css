@@ -1038,3 +1038,8 @@ textarea#comment::placeholder {
 .copyright_text a:hover{
     color: #fdbe28;
 }
+
+p .autor_text{
+    width: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
