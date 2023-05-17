@@ -498,6 +498,16 @@ button {
     color: #ffffff;
     margin-left: 0px;
     padding-top: 40px;
+    text-align: justify;
+}
+
+.lorem_text2 {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #ffffff;
+    margin-left: 0px;
+    padding-top: 40px;
 }
 .read_bt1 {
     width: 30%;
@@ -533,6 +543,16 @@ button {
     text-align: center;
 }
 .ipsum_text{
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #090808;
+    text-align: justify;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+.ipsum_text2{
     width: 100%;
     float: left;
     font-size: 16px;
@@ -613,6 +633,16 @@ a:hover {
     margin-top: 10px;
     margin-left: 0px;
 }
+
+.dololr_text2{
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    color: #121111;
+    margin-top: 10px;
+    margin-left: 0px;
+    text-align: justify;
+}
 .who_section{
     width: 100%;
     float: left;
@@ -643,7 +673,7 @@ a:hover {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    text-align: center;
+    text-align: justify;
     margin-left: 0px;
 }
 .get_bt_main{
